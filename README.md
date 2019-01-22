@@ -14,6 +14,6 @@ The rotated image will be save in image_rotate.
 The cropped image will be saved in image_crop.
 
 ### Results
-<img src="https://github.com/wanfb/Face-Preprocessing-Tool/blob/master/image/Jay.jpg"/>
-<img src="https://github.com/wanfb/Face-Preprocessing-Tool/blob/master/images_rotate/Jay.jpg"/>
+<img src="https://github.com/wanfb/Face-Preprocessing-Tool/blob/master/image/Jay.jpg" width = "400" height = "400" />
+<img src="https://github.com/wanfb/Face-Preprocessing-Tool/blob/master/images_rotate/Jay.jpg" width = "400" height = "400"/>
 <img src="https://github.com/wanfb/Face-Preprocessing-Tool/blob/master/images_crop/Jay.jpg"/>
