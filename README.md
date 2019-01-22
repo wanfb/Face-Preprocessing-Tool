@@ -1,6 +1,4 @@
-# an-useful-tool-in-face-preprocessing
-An useful tool can automaticly do face recognizition, face crop and face rotate
+# Face-preprocessing-tool
+It's an useful tool that can automaticly do face detection, face crop and face rotate.
 
-We directly use MTCNN_face_detection_and_alignment(https://github.com/pangyupo/mxnet_mtcnn_face_detection) for face detection and alignment. 
-
-
+The base model used for face detection is [MTCNN](https://github.com/pangyupo/mxnet_mtcnn_face_detection)
