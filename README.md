@@ -7,9 +7,10 @@ The base model used for face detection is [MTCNN](https://github.com/pangyupo/mx
 
 ### Test
 run:
+
 `python main.py --root_path image/ --rotate_path images_rotate --crop_path images_crop`
 
-The rotated image will be save in image_rotate
-The cropped image will be saved in image_crop
+The rotated image will be save in image_rotate.
+The cropped image will be saved in image_crop.
 
 
